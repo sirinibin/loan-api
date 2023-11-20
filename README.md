@@ -10,6 +10,8 @@ cd go/src/github.com/sirinibin/loan-api
 go run main.go
 ```
 
+API Documentation: [Click here](https://documenter.getpostman.com/view/551198/2s9Ye8hFfF#92dedb95-65dd-4701-b0ea-64334d56ef2a)
+
 ## Set up & Run Front end
 ```bash
 git clone https://github.com/sirinibin/loan-app
